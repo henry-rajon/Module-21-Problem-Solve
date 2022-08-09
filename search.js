@@ -1,4 +1,11 @@
-const lyrics = "Tumi bondhu kala paki. Ami jeno ki. Bosonto kale tumay dekte pari ni. Sada sada kala kala.";
+
+// -------------------------------
+//     Scource : MND JavaString
+// -------------------------------
+
+
+
+// const lyrics = "Tumi bondhu kala paki. Ami jeno ki. Bosonto kale tumay dekte pari ni. Sada sada kala kala.";
 
 // ----------------------
 // .includes
